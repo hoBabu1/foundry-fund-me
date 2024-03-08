@@ -1,0 +1,8 @@
+fundMeTest:testFunctionUpdatesFundedDataStructure() (gas: 100822)
+fundMeTest:testFundsFailsWithoutEnoughEth() (gas: 22967)
+fundMeTest:testGetConversion() (gas: 10747)
+fundMeTest:testIsMinimumDollarIs5() (gas: 5470)
+fundMeTest:testOnlyOwnerCanWithdraw() (gas: 99955)
+fundMeTest:testWithdrawFromMultipleFunder() (gas: 486944)
+fundMeTest:test_Withdraw_With_SingleFunder() (gas: 84495)
+fundMeTest:testisOwner() (gas: 5564)
